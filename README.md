@@ -2,7 +2,7 @@
 
 This is a simple website to **flood** the hateful “Gays Against Groomers” tipline with fake tips about the chemicals in the water turning the frogs gay, words of affection, wishing them a lovely pride, pictures of shrek, feel free to get weird and creatie with it - just no threats or harassment. 
 
-**Live Site:** 
+**Live Site:** yourfullofhate.xyz/
 
 ---
 
@@ -16,7 +16,7 @@ This website flips the script—encouraging people to **send nonsense** instead.
 
 ## 🚀 How to Use
 
-1. Visit the live site.  
+1. Visit the live site yourfullofhate.xyz/
 2. Click the “Send Fake Tips” button to send am email to their tipline.  
 3. Send them **fake tips**, **spam**, or **fun nonsense** to clog their hateful call.  
 4. Share the live site with friends, drop it in your favorite lgbtq+ loving digitial spaces or your family group chat! 
