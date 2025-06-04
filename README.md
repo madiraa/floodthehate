@@ -1,6 +1,6 @@
 # 🌈 Flood the Hate 🌈
 
-This is a simple website to **flood** the hateful “Gays Against Groomers” tipline with fake tips about the chemicals in the water turning the frogs gay, words of affection, wishing them a lovely pride, pictures of shrek, feel free to get weird and creatie with it - just no threats or harassment. 
+This is a simple website to **flood** the hateful “Gays Against Groomers” tipline with fake tips about the chemicals in the water turning the frogs gay, words of affection, wishing them a lovely pride, pictures of shrek, feel free to get weird and creative with it - just no threats or harassment. 
 
 **Live Site:** yourfullofhate.xyz
 
