@@ -1,0 +1,62 @@
+/* Reuse design tokens from personal website */
+:root {
+  --bg: #181A1F;
+  --text: #F5F5F5;
+  --accent: #00ffe7;
+  --accent-secondary: #a259f7;
+  --border: #232336;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', 'Fira Sans', 'Consolas', monospace;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 3rem;
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
+
+p {
+  max-width: 600px;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+a.button {
+  display: inline-block;
+  background: var(--accent-secondary);
+  color: var(--text);
+  padding: 0.8rem 2rem;
+  border-radius: 4px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.2s;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+}
+
+a.button:hover {
+  background: var(--accent);
+  transform: translateY(-2px);
+}
+
+/* subtle rainbow underline for the title */
+.glitch {
+  animation: glitch 1.2s infinite alternate;
+}
+@keyframes glitch {
+  0% { text-shadow: 2px 0 var(--accent-secondary); }
+  50% { text-shadow: -2px 0 var(--accent); }
+  100% { text-shadow: 2px 0 var(--accent-secondary); }
+} 
